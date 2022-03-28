@@ -1,0 +1,4 @@
+baseURL = 'https://smpltn.com/'
+languageCode = 'en-us'
+title = 'smpltn'
+theme = "hello-friend"
