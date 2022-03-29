@@ -1,6 +1,8 @@
-baseurl = "/"
-languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
+baseURL = 'https://smpltn.com/'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = 'smpltn'
+theme = "hello-friend"
 paginate = 5
 
 [params]
@@ -15,8 +17,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "smpltn"
+    subtitle = "Telling Stories to the Sea"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -30,7 +32,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "smpltn"
       logoHomeLink = "/"
     # or
     #
