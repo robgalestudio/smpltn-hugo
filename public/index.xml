@@ -2,57 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>smpltn</title>
-    
-    
-    
-    <link>https://smpltn.com/</link>
+    <link>/</link>
     <description>Recent content on smpltn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Mar 2022 08:52:36 -0700</lastBuildDate>
-    
-	<atom:link href="https://smpltn.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-au</language>
+    <copyright>&amp;copy; 2022 Rob Gale</copyright>
+    <lastBuildDate>Mon, 28 Mar 2022 08:52:36 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“Theo”</title>
-      <link>https://smpltn.com/posts/2022-03-28/</link>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
       <pubDate>Mon, 28 Mar 2022 08:52:36 -0700</pubDate>
       
-      <guid>https://smpltn.com/posts/2022-03-28/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Or the messiness of new creative projects. Brains. And choosy people. This is cool. It actually updates in real time.
-So yeah. this is pretty nice because it’s so freaking simple! I love it I love it I love it.
-          
-        
-        </description>
+      <guid>/posts/first-post/</guid>
+      <description>Or the messiness of new creative projects.</description>
     </item>
     
     <item>
-      <title>“Theo”</title>
-      <link>https://smpltn.com/posts/2022-03-29/</link>
-      <pubDate>Mon, 28 Mar 2022 08:52:36 -0700</pubDate>
+      <title>Second Post</title>
+      <link>/posts/second-post/</link>
+      <pubDate>Mon, 28 Feb 2022 08:52:36 -0700</pubDate>
       
-      <guid>https://smpltn.com/posts/2022-03-29/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          This is something I struggle with. I’ve been working on what has amounted to a three page comic for over 3 months now. It’s not because it’s so challenging to work on, or because I don’t have the skills to do a decent job. I’ve spent years honing my craft of drawing and countless hours working on my storytelling craft. Not to say that I’m the greatest by any means, but I definitely have put in the time and the work to develop my craft, and I think I’m at least passable when it comes to those two aspects.
-          
-        
-        </description>
+      <guid>/posts/second-post/</guid>
+      <description>This is something I struggle with.</description>
     </item>
     
   </channel>

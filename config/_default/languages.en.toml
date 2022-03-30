@@ -1,0 +1,23 @@
+languageCode = "en-au"
+languageName = "English (Australia)"
+displayName = ":flag-au:"
+isoCode = "en-AU"
+weight = 1
+rtl = false
+
+title = "smpltn"
+# logo = "img/logo.jpg"
+description = "Telling Stories to the Sea"
+copyright = "&copy; 2022 Rob Gale"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Rob Gale"
+  image = "img/author.jpg"
+  headline = "Writing and drawing for the good of everyone"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+    { twitter = "https://twitter.com/robgalestudio" },
+    { linkedin = "https://linkedin.com/in/robgalestudio" },
+  ]
