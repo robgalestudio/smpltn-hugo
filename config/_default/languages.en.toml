@@ -10,13 +10,13 @@ title = "smpltn"
 description = "Telling Stories to the Sea"
 copyright = "&copy; 2022 Rob Gale"
 
-dateFormat = "2 January 2006"
+dateFormat = "January 2, 2006"
 
 [author]
   name = "Rob Gale"
   image = "img/author.jpg"
-  headline = "Writing and drawing for the good of everyone"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  headline = "Writing. Drawing. Process. Ideas."
+  bio = "Rob Gale is an illustrator, art director, and writer. He writes about the creative process from the Bay Area."
   links = [
     { twitter = "https://twitter.com/robgalestudio" },
     { linkedin = "https://linkedin.com/in/robgalestudio" },
