@@ -7,23 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2022 Rob Gale</copyright>
-    <lastBuildDate>Mon, 28 Mar 2022 08:52:36 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 08:52:36 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>/posts/first-post/</link>
-      <pubDate>Mon, 28 Mar 2022 08:52:36 -0700</pubDate>
+      <title>Performance vs. Practice</title>
+      <link>/posts/performance-vs-practice/</link>
+      <pubDate>Mon, 04 Apr 2022 08:52:36 -0700</pubDate>
       
-      <guid>/posts/first-post/</guid>
-      <description>Or the messiness of new creative projects.</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>/posts/second-post/</link>
-      <pubDate>Mon, 28 Feb 2022 08:52:36 -0700</pubDate>
-      
-      <guid>/posts/second-post/</guid>
-      <description>This is something I struggle with.</description>
+      <guid>/posts/performance-vs-practice/</guid>
+      <description>In all of my creative endeavors I have found that it can be helpful to separate performance vs.</description>
     </item>
     
   </channel>
