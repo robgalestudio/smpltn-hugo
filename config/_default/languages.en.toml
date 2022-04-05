@@ -18,6 +18,7 @@ dateFormat = "January 2, 2006"
   headline = "Writing. Drawing. Process. Ideas."
   bio = "Rob Gale is an illustrator, art director, and writer. He writes about the creative process from the Bay Area."
   links = [
+    # { website = "https://robgale.co"},
     { twitter = "https://twitter.com/robgalestudio" },
     { linkedin = "https://linkedin.com/in/robgalestudio" },
   ]
