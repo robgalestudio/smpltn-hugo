@@ -1,6 +1,6 @@
 ---
 title: "Writing to Understand"
-date: "2022-04-08T06:00:00-07:00"
+date: "2022-04-08T07:00:00-07:00"
 draft: false
 ---
 When there is nothing else, write to understand the world. To understand what is going on inside and to try and get a handle on what is going on outside.
